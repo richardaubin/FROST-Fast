@@ -1,6 +1,6 @@
 # FROST Fast
 
-![FROST Fast Cover](https://github.com/clayne/FROST-Fast/blob/main/Cover.jpg)
+![FROST Fast Cover](https://github.com/richardaubin/FROST-Fast/blob/main/Cover.jpg)
 
 **Latest Release:**
 v1.5.2 (3/5/2022)
@@ -106,7 +106,7 @@ Place the _Wabbajack.exe_ file in a new folder, e.g. C:\Wabbajack.
 
 ### Download the modlist
 
-Download the latest release of **FROST Fast** from [Github](https://github.com/clayne/FROST-Fast/releases). For your convenience, [here is the direct download link](https://github.com/clayne/FROST-Fast/releases/download/v1.5.2/FROST.Fast.wabbajack). You can save it in the same folder as Wabbajack, e.g. C:\Wabbajack.
+Download the latest release of **FROST Fast** from [Github](https://github.com/richardaubin/FROST-Fast/releases). For your convenience, [here is the direct download link](https://github.com/richardaubin/FROST-Fast/releases/download/v1.5.2/FROST.Fast.wabbajack). You can save it in the same folder as Wabbajack, e.g. C:\Wabbajack.
 
 ### Install the modlist
 
@@ -240,7 +240,7 @@ Before you update the modlist, please read carefully:
 
 Update the modlist by following these steps:
 
-1. Download the latest release of **FROST Fast** from [Github](https://github.com/clayne/FROST-Fast/releases)
+1. Download the latest release of **FROST Fast** from [Github](https://github.com/richardaubin/FROST-Fast/releases)
 2. Run Wabbajack.exe
 3. Click on _Install From Disk_ and open the latest release: _FROST Fast.wabbajack_
 4. Set the same _Installation Location_, default C:\FROST-Fast\Install
@@ -292,7 +292,7 @@ All credit and thanks go to the Fallout 4 modding community and the Wabbajack de
 
 ## Contact
 
-Bug reports and feature requests should go into the [Github issues tracker](https://github.com/clayne/FROST-Fast/issues) for **FROST Fast**.
+Bug reports and feature requests should go into the [Github issues tracker](https://github.com/richardaubin/FROST-Fast/issues) for **FROST Fast**.
 
 ## Changelog
 

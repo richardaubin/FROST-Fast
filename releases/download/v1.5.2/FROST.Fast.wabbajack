@@ -116,7 +116,7 @@
     
   <meta name="go-import" content="github.com/richardaubin/FROST-Fast git https://github.com/richardaubin/FROST-Fast.git">
 
-  <meta name="octolytics-dimension-user_id" content="37956997" /><meta name="octolytics-dimension-user_login" content="richardaubin" /><meta name="octolytics-dimension-repository_id" content="472159697" /><meta name="octolytics-dimension-repository_nwo" content="richardaubin/FROST-Fast" /><meta name="octolytics-dimension-repository_public" content="true" /><meta name="octolytics-dimension-repository_is_fork" content="true" /><meta name="octolytics-dimension-repository_parent_id" content="441731945" /><meta name="octolytics-dimension-repository_parent_nwo" content="clayne/FROST-Fast" /><meta name="octolytics-dimension-repository_network_root_id" content="441731945" /><meta name="octolytics-dimension-repository_network_root_nwo" content="clayne/FROST-Fast" />
+  <meta name="octolytics-dimension-user_id" content="37956997" /><meta name="octolytics-dimension-user_login" content="richardaubin" /><meta name="octolytics-dimension-repository_id" content="472159697" /><meta name="octolytics-dimension-repository_nwo" content="richardaubin/FROST-Fast" /><meta name="octolytics-dimension-repository_public" content="true" /><meta name="octolytics-dimension-repository_is_fork" content="true" /><meta name="octolytics-dimension-repository_parent_id" content="441731945" /><meta name="octolytics-dimension-repository_parent_nwo" content="richardaubin/FROST-Fast" /><meta name="octolytics-dimension-repository_network_root_id" content="441731945" /><meta name="octolytics-dimension-repository_network_root_nwo" content="richardaubin/FROST-Fast" />
 
 
 
@@ -688,7 +688,7 @@
   <span></span><span class="Label Label--secondary v-align-middle mr-1">Public</span>
 </h1>
   <span class="text-small lh-condensed-ultra no-wrap mt-1" data-repository-hovercards-enabled>
-    forked from <a data-hovercard-type="repository" data-hovercard-url="/clayne/FROST-Fast/hovercard" href="/clayne/FROST-Fast">clayne/FROST-Fast</a>
+    forked from <a data-hovercard-type="repository" data-hovercard-url="/richardaubin/FROST-Fast/hovercard" href="/richardaubin/FROST-Fast">richardaubin/FROST-Fast</a>
   </span>
 
         </div>
